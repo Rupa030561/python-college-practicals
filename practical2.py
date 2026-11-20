@@ -54,5 +54,3 @@ while count < n:
         count += 1
 
     num += 1
-
-print()

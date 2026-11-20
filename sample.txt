@@ -1,0 +1,4 @@
+Line 1: Python programming is fun.
+Line 2: Object oriented concepts.
+Line 3: File handling made simple.
+Line 4: End of practical 9.
